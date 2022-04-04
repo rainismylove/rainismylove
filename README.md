@@ -1,4 +1,5 @@
 Spaning-tree & rapid-pvst ///
+
 Switch(config)#spanning-tree mode rapid-pvst 
 stp > spanning-tree bpduguard enable
 spanning-tree portfast 
