@@ -1,3 +1,8 @@
+
+KjhPSmkLkLSsSs155*!aadDS
+
+
+
 Spaning-tree & rapid-pvst ///
 
 Switch(config)#spanning-tree mode rapid-pvst 
