@@ -23,7 +23,6 @@ Switch(config)#spanning-tree vlan 1 priority 4096
 ---
 
 (portları seç)
-switchport port-security 
 switchport port-security ...
 
 
